@@ -17,6 +17,7 @@ Once this is done, the PR would be merged.
 Note that a more elaborate version of these steps can be found [here](https://docs.google.com/document/d/1CFb1JXDBRYbs_O54hcaq_Qh06VQkZi_AKkLg3gAO1e4/edit?usp=sharing)
 
 For further reading on how to make a pull request, please check [here](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github) 
+
 If you have any challenges, please be sure to reach out and ask for help.
 
 *PLEASE BE SURE NOT TO MODIFY ANY OTHER FILES OTHER THAN YOUR SCRIPT FILE AS THIS COULD DELAY THE MERGE OF YOUR PR.*
